@@ -3,13 +3,13 @@
   "version": "1.0",
   "data": "data.json",
   "logo": {
-    "file": "https://advancednanomaterials.weebly.com/uploads/8/9/0/2/89024240/published/screen-shot-2016-09-09-at-22-49-35.png?1561120516",
+    "file": "https://d15gkqt2d16c1n.cloudfront.net/images/universities/logos/Logo_TheUniversityofManchester_3700.jpg",
     "link": "https://advancednanomaterials.weebly.com/",
     "text": "Yiannis Georgantas"
   },
   "text": {
     "more": "",
-    "intro": "The extended co-word analysis network for MXenes-Mining (Author: Yiannis Georgantas)",
+    "intro": "The extended co-word analysis network for MXene-Mining (Author: Yiannis Georgantas)",
     "title": "MXene-mining 2022"
   },
   "legend": {
@@ -37,7 +37,7 @@
       "defaultLabelHoverColor": "#fff",
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
-      "defaultLabelSize": 14
+      "defaultLabelSize": 20
     },
     "graphProperties": {
       "maxEdgeSize": 0.5,
@@ -47,7 +47,7 @@
     },
     "mouseProperties": {
       "maxRatio": 20,
-      "minRatio": 0.75
+      "minRatio": 0.25
     }
   }
 }

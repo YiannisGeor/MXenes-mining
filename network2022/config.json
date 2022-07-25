@@ -9,7 +9,7 @@
   },
   "text": {
     "more": "",
-    "intro": "The extended co-word analysis network for MXenes-Mining (Author: Yiannis Georgantas)",
+    "intro": "The extended co-word analysis network for MXene-Mining (Author: Yiannis Georgantas)",
     "title": "MXene-mining 2022"
   },
   "legend": {
@@ -47,7 +47,7 @@
     },
     "mouseProperties": {
       "maxRatio": 20,
-      "minRatio": 0.75
+      "minRatio": 0.25
     }
   }
 }

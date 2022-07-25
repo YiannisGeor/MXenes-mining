@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "https://www.google.com/imgres?imgurl\u003dhttps%3A%2F%2Fwww.staffnet.manchester.ac.uk%2Fbrand%2Fvisual-identity%2Flogo%2Flogo_big.gif\u0026imgrefurl\u003dhttps%3A%2F%2Fwww.staffnet.manchester.ac.uk%2Fbrand%2Fvisual-identity%2Flogo%2F\u0026tbnid\u003dodk_vC_MLXKd2M\u0026vet\u003d12ahUKEwjyhLe1hJX5AhUW_IUKHTU9DsAQMygAegUIARCoAQ..i\u0026docid\u003dFTive0sWzT89aM\u0026w\u003d500\u0026h\u003d226\u0026q\u003dlogo%20university%20of%20manchester\u0026ved\u003d2ahUKEwjyhLe1hJX5AhUW_IUKHTU9DsAQMygAegUIARCoAQ",
+    "link": "https://advancednanomaterials.weebly.com/",
+    "text": "Yiannis Georgantas"
+  },
+  "text": {
+    "more": "",
+    "intro": "",
+    "title": "MXene-mining 2022"
+  },
+  "legend": {
+    "edgeLabel": "3879",
+    "colorLabel": "N/A",
+    "nodeLabel": "3074"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "Modularity Class",
+    "hoverBehavior": "default"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
